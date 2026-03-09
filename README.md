@@ -11,37 +11,38 @@
 
 <br>
 
-<!-- 统计卡片 -->
+<!-- GitHub 统计 - 使用更可靠的源 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ccjr1120&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&hide_title=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccjr1120&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&hide_title=true" height="160" />
+  <a href="https://github.com/ccjr1120">
+    <img src="https://github-readme-stats.vercel.app/api?username=ccjr1120&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&hide_title=true&cache_seconds=86400" height="160" />
+  </a>
+  <a href="https://github.com/ccjr1120">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccjr1120&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&hide_title=true&cache_seconds=86400" height="160" />
+  </a>
 </div>
 
 <br>
 
-<!-- 连续贡献 - 唯一动画元素 -->
+<!-- 连续贡献 -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccjr1120&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF006E&fire=FF006E" alt="GitHub Streak" />
+  <a href="https://github.com/ccjr1120">
+    <img src="https://streak-stats.demolab.com?user=ccjr1120&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF006E&fire=FF006E" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br>
 
-<!-- 技术栈 - 纯图标排版 -->
+<!-- 技术栈 - 纯文本排版 -->
 <h3 align="center">Tech Stack</h3>
 
 <div align="center">
 
-| Frontend | Backend | DevOps |
-|:--------:|:-------:|:------:|
-| React · Vue · TypeScript | Node.js · Python · Go | Docker · Git |
+```
+Frontend    │  React · Vue · TypeScript
+Backend     │  Node.js · Python · Go
+DevOps      │  Docker · Git
+```
 
-</div>
-
-<br>
-
-<!-- 贡献蛇 - 底部装饰动画 -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ccjr1120/ccjr1120/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="90%"/>
 </div>
 
 <br>
