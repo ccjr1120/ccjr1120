@@ -120,6 +120,6 @@
 <!-- Figma 配色说明 -->
 <div align="center">
 
-<sub>🎨 <b>Powered by Figma Colors</b> | #F24E1E · #FF7262 · #A259FF · #1ABCFE · #0ACF83</sub>
+<sub>🎨 <b>Powered by Figma Colors</b> | 🔴 #F24E1E · 🟠 #FF7262 · 🟣 #A259FF · 🔵 #1ABCFE · 🟢 #0ACF83</sub>
 
 </div>
