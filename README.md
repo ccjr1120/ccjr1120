@@ -103,19 +103,6 @@
 
 <br><br>
 
-<!-- Trophies - Figma 配色 -->
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ccjr1120&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
-
-</div>
-
-<br><br>
-
 <!-- 底部 - Figma 风格 -->
 <div align="center">
 
