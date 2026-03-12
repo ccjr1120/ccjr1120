@@ -103,21 +103,8 @@
 
 <br><br>
 
-<!-- 底部 - Figma 风格 -->
+<!-- 底部 -->
 <div align="center">
-
-### Designed with Figma Colors 🎨
-
-<br>
-
-<!-- Figma 配色展示 -->
-<img src="https://img.shields.io/badge/F24E1E-F24E1E?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/FF7262-FF7262?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/A259FF-A259FF?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/1ABCFE-1ABCFE?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/0ACF83-0ACF83?style=for-the-badge&logoColor=white" />
-
-<br><br>
 
 ### 💜 Stay Curious, Keep Coding!
 
