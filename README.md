@@ -16,7 +16,7 @@
 <!-- 问候语 - Figma 配色 -->
 <div align="center">
 
-### 🔴🟠🟣🔵🟢 Hello World!
+### 👋 Hello World!
 ### ✨ Code with Passion · Build with Love · Create the Future
 
 </div>
@@ -126,10 +126,6 @@
 <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-F24E1E?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Have%20a%20nice%20day-0ACF83?style=for-the-badge&logoColor=white" />
 
-<br><br>
-
-🔴🟠🟣🔵🟢
-
 </div>
 
 ---
@@ -137,6 +133,6 @@
 <!-- Figma 配色说明 -->
 <div align="center">
 
-<sub>🎨 <b>Powered by Figma Colors</b> | 🔴 #F24E1E · 🟠 #FF7262 · 🟣 #A259FF · 🔵 #1ABCFE · 🟢 #0ACF83</sub>
+<sub>🎨 <b>Powered by Figma Colors</b> | #F24E1E · #FF7262 · #A259FF · #1ABCFE · #0ACF83</sub>
 
 </div>
